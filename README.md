@@ -1,1 +1,1 @@
-Primitive .Net Core Consle-chat using TCP protocol.
+Simple consle-chat using TCP protocol.
