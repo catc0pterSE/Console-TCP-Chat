@@ -18,7 +18,7 @@ public class ServerObject
         client?.Close();
     }
 
-    protected internal async Task ListenAsync()
+    public async Task ListenAsync()
     {
         try
         {
@@ -43,7 +43,7 @@ public class ServerObject
         }
     }
 
-    protected internal async Task BroadcastMessageAsync(string message, string id)
+    public async Task BroadcastMessageAsync(string message, string id)
     {
         foreach (ClientObject client in _clients)
         {
@@ -55,7 +55,7 @@ public class ServerObject
         }
     }
     
-    protected internal void Disconnect()
+    private void Disconnect()
     {
         foreach (ClientObject client in _clients)
         {

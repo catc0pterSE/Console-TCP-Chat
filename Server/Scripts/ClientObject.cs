@@ -18,9 +18,9 @@ public class ClientObject
         Writer = new StreamWriter(stream);
     }
     
-    protected internal string Id { get; } = Guid.NewGuid().ToString();
-    protected internal StreamWriter Writer { get; }
-    protected internal StreamReader Reader { get; }
+    public string Id { get; } = Guid.NewGuid().ToString();
+    public StreamWriter Writer { get; }
+    private StreamReader Reader { get; }
 
     public async Task ProcessAsync()
     {
@@ -62,7 +62,7 @@ public class ClientObject
         }
     }
 
-    protected internal void Close()
+    public void Close()
     {
         Writer.Close();
         Reader.Close();
