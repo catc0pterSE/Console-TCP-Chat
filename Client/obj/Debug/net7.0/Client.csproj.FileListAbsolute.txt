@@ -1,0 +1,15 @@
+G:\Programming\Console\TCP-Chat\Client\bin\Debug\net7.0\Client.exe
+G:\Programming\Console\TCP-Chat\Client\bin\Debug\net7.0\Client.deps.json
+G:\Programming\Console\TCP-Chat\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+G:\Programming\Console\TCP-Chat\Client\bin\Debug\net7.0\Client.dll
+G:\Programming\Console\TCP-Chat\Client\bin\Debug\net7.0\Client.pdb
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.dll
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\refint\Client.dll
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.pdb
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+G:\Programming\Console\TCP-Chat\Client\obj\Debug\net7.0\ref\Client.dll
