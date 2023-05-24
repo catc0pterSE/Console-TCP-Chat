@@ -1,1 +1,1 @@
-Primitive Consle-chat build on TCP protocol.
+Primitive Consle-chat using TCP protocol.
