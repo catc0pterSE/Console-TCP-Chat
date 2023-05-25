@@ -1,2 +1,2 @@
 Simple consle-chat using TCP protocol.
-Developed as test rask for job application.
+Developed as test task for job application.
